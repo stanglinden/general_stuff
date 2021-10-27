@@ -1,0 +1,4 @@
+hardstatus on
+hardstatus alwayslastline
+hardstatus string "Screen(s): %w  %C%A  %D, %M/%d/%Y "
+altscreen on
