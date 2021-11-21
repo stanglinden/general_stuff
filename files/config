@@ -1,0 +1,74 @@
+Host ansible
+	User ansible
+	Hostname ansible.lindenhouse.lan
+Host snappy
+	User ubuntu
+	Hostname 192.168.64.2
+
+Hostname pfsense
+	User stanglinden
+	Hostname pfsense.lindenhouse.lan
+
+Hostname headphone
+	User tc
+	Hostname headphones.lindenhouse.lan
+
+Hostname bedroom
+	User tc
+	Hostname BedRoom.lindenhouse.lan 
+
+Hostname livingroom
+	User tc
+	Hostname livingroom.lindenhouse.lan 
+
+Host backupnas
+	User stanglinden
+	Hostname BackupNAS.lindenhouse.lan 
+
+Host pve
+	User root
+	Hostname pve.lindenhouse.lan
+
+Host media
+	User stanglinden
+	Hostname media.lindenhouse.lan 
+Host ubuntu1
+	User ubuntu
+	Hostname ubuntu1.lindenhouse.lan
+Host ubuntu2
+	User ubuntu
+	Hostname ubuntu2.lindenhouse.lan
+Host ubuntu3
+	User ubuntu
+	Hostname ubuntu3.lindenhouse.lan
+Host ubuntu4
+	User ubuntu
+	Hostname ubuntu4.lindenhouse.lan
+
+Host centosftp
+	User cbtsadmin
+	Hostname centosftp.lindenhouse.lan
+        Port 1234
+Host dbserver
+	User stanglinden
+	Hostname dbserver.lindenhouse.lan
+Host webserver
+	User stanglinden
+	Hostname webserver.lindenhouse.lan
+Host almalinux
+	User stanglinden
+	Hostname almalinux.lindenhouse.lan 
+Host rocky
+	User stanglinden
+	Hostname rocky.lindenhouse.lan
+#192.168.1.135	win11.lindenhouse.lan win11
+#192.168.1.136   pidesktop.lindenhouse.lan pidesktop
+#192.168.1.141	ubuntudesktop.lindenhouse.lan	ubuntudesktop
+#192.168.1.147	homeassistant.local	homeassistant
+#192.168.100.1	modem.lindenhhouse.lan  modem
+#192.168.1.2	pilite.lindenhouse.lan pilite pihole
+#192.168.1.3	tp-link.lindenhouse.lan tp-link TL-SG1016PE
+#192.168.1.72	nvidiashield.lindenhouse.lan nvidiashield
+	
+
+
